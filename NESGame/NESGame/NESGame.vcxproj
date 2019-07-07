@@ -29,7 +29,7 @@
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
     <PlatformToolset>v141</PlatformToolset>
-    <CharacterSet>MultiByte</CharacterSet>
+    <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
@@ -70,8 +70,8 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <IncludePath>D:\NESGameRemake\NESGame\NESGame\Library\DirectX SDK\Sound Util;D:\NESGameRemake\NESGame\NESGame\Library\DirectX SDK\Include;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\NESGameRemake\NESGame\NESGame\Library\DirectX SDK\Lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>D:\NESGameRemake\NESGame\Library\DirectX SDK\Sound Util;D:\NESGameRemake\NESGame\Library\DirectX SDK\Include;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\NESGameRemake\NESGame\Library\DirectX SDK\Lib\x86;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
