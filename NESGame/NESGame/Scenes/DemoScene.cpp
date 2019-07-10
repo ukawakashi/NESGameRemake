@@ -10,10 +10,10 @@ void DemoScene::LoadContent()
 {
     //set mau backcolor cho scene o day la mau xanh
     mBackColor = 0x54acd2;
-	string filePath = "Resources/marioworld1-1.tmx";
+	string filePath = "Resources/mario.tmx";
     mMap = new GameMap(filePath);
 
-    mCamera = new Camera(GameGlobal::GetWidth(), GameGlobal::GetHeight());
+    mCamera = new Camera(GameGlobal::GetWidth(), GameGlobal::GetHeight()); 
     mCamera->SetPosition(GameGlobal::GetWidth() / 2, 
                             mMap->GetHeight() - mCamera->GetHeight());
 
@@ -21,7 +21,7 @@ void DemoScene::LoadContent()
 
     mPlayer = new Player();
 
-    mPlayer->SetPosition(GameGlobal::GetWidth() / 2, GameGlobal::GetHeight() / 2);
+    mPlayer->SetPosition(GameGlobal::GetWidth() / 2, GameGlobal::GetHeight() / 2); // vi tri ban dau mario
     mPlayer->SetCamera(mCamera);
 }
 

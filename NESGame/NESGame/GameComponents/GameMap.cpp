@@ -55,17 +55,20 @@ void GameMap::LoadMap(string filePath)
     for (size_t i = 0; i < GetMap()->GetNumTileLayers(); i++)
     {
         const Tmx::TileLayer *layer = mMap->GetTileLayer(i);
+		
+        /*if (layer->IsVisible())
+            continue;*/
 
-        if (layer->IsVisible())
-            continue;
+		
 
-        //xac dinh layer Brick bi an di de tu do tao ra cac vien gach trong game, nhung vien gach khong phai la 1 physic static nos co the bi pha huy duoc
+        //xac dinh layer Brick bi an di de tu do tao ra cac vien gach trong game, nhung vien gach khong phai la 1 physic static no co the bi pha huy duoc
 
         if (layer->GetName() == "brick" || layer->GetName() == "coin")
         {
             for (size_t j = 0; j < mMap->GetNumTilesets(); j++)
             {
                 const Tmx::Tileset *tileSet = mMap->GetTileset(j);
+				//const Tmx::Tile *tile = tileSet->GetTile(j);
 
                 int tileWidth = mMap->GetTileWidth();
                 int tileHeight = mMap->GetTileHeight();
@@ -236,7 +239,7 @@ void GameMap::Draw()
         for (size_t j = 0; j < mMap->GetNumTilesets(); j++)
         {
             const Tmx::Tileset *tileSet = mMap->GetTileset(j);
-
+			
             RECT sourceRECT;
 
             int tileWidth = mMap->GetTileWidth();

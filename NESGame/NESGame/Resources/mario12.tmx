@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.4" orientation="orthogonal" renderorder="right-down" width="50" height="16" tilewidth="32" tileheight="32" infinite="0" nextlayerid="4" nextobjectid="5">
+ <tileset firstgid="1" name="map" tilewidth="32" tileheight="32" tilecount="924" columns="33">
+  <image source="D:/GameTutorial/11 - Collision/DemoDirectX/Resources/mariotileset.png" width="1056" height="896"/>
+  <tile id="28">
+   <animation>
+    <frame tileid="27" duration="60"/>
+    <frame tileid="26" duration="60"/>
+    <frame tileid="25" duration="60"/>
+    <frame tileid="24" duration="60"/>
+   </animation>
+  </tile>
+ </tileset>
+ <layer id="1" name="Tile Layer 1" width="50" height="16">
+  <data encoding="base64" compression="zlib">
+   eJztz0ENAAAMg8DVv+l9KoImXIIAcvvS1vnB4geLHyx+sPjB4gdLDNcDII8AgQ==
+  </data>
+ </layer>
+ <layer id="3" name="coin" width="50" height="16" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIKhD2SheKiD4eAPWRzsoQRkceBRMApGwSgYBZQDAGMwAV0=
+  </data>
+ </layer>
+ <objectgroup id="2" name="Collision">
+  <object id="1" x="0" y="448" width="1600" height="64"/>
+  <object id="3" x="0" y="0" width="32" height="448"/>
+  <object id="4" x="1568" y="0" width="32" height="448"/>
+ </objectgroup>
+</map>

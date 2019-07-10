@@ -31,8 +31,8 @@ public:
 
     bool IsBoundLeft(); //kiem tra luc nay Camera o vi bien ben trai so voi WorldMap
     bool IsBoundRight(); // kiem tra xem co o vi tri bien ben phai worldmap khong
-    bool IsBoundTop(); // kiem tra xem co o vi tri bien ben trai worldmap khong
-    bool IsBoundBottom(); // kiem tra xem co o vi tri bien ben phai worldmap khong
+    bool IsBoundTop(); // kiem tra xem co o vi tri bien ben tren worldmap khong
+    bool IsBoundBottom(); // kiem tra xem co o vi tri bien ben duoi worldmap khong
     ~GameMap();
 
     std::vector<Brick*> GetListBrick();
