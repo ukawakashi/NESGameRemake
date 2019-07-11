@@ -186,6 +186,9 @@
     <ClCompile Include="Sound.cpp">
       <Filter>Framework\GameComponents</Filter>
     </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>Framework\GameComponents</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="GameComponents\Animation.h">
@@ -342,6 +345,9 @@
       <Filter>Framework\GameComponents</Filter>
     </ClInclude>
     <ClInclude Include="Sound.h">
+      <Filter>Framework\GameComponents</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
       <Filter>Framework\GameComponents</Filter>
     </ClInclude>
   </ItemGroup>

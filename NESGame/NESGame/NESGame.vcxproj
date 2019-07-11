@@ -171,6 +171,7 @@
     <ClCompile Include="Rect.cpp" />
     <ClCompile Include="Scenes\DemoScene.cpp" />
     <ClCompile Include="Sound.cpp" />
+    <ClCompile Include="UI.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="GameComponents\Animation.h" />
@@ -225,6 +226,7 @@
     <ClInclude Include="resource.h" />
     <ClInclude Include="Scenes\DemoScene.h" />
     <ClInclude Include="Sound.h" />
+    <ClInclude Include="UI.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="MapReader\Tmx.h.in" />
