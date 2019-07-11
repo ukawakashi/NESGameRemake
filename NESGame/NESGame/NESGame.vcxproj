@@ -169,6 +169,7 @@
     <ClCompile Include="MapReader\TmxUtil.cpp" />
     <ClCompile Include="ReadResource.cpp" />
     <ClCompile Include="Rect.cpp" />
+    <ClCompile Include="ResourceManager.cpp" />
     <ClCompile Include="Scenes\DemoScene.cpp" />
     <ClCompile Include="Sound.cpp" />
     <ClCompile Include="UI.cpp" />
@@ -224,6 +225,7 @@
     <ClInclude Include="ReadResource.h" />
     <ClInclude Include="Rect.h" />
     <ClInclude Include="resource.h" />
+    <ClInclude Include="ResourceManager.h" />
     <ClInclude Include="Scenes\DemoScene.h" />
     <ClInclude Include="Sound.h" />
     <ClInclude Include="UI.h" />

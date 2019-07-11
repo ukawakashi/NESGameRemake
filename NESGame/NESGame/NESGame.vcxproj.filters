@@ -189,6 +189,9 @@
     <ClCompile Include="UI.cpp">
       <Filter>Framework\GameComponents</Filter>
     </ClCompile>
+    <ClCompile Include="ResourceManager.cpp">
+      <Filter>Framework\GameControllers</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="GameComponents\Animation.h">
@@ -349,6 +352,9 @@
     </ClInclude>
     <ClInclude Include="UI.h">
       <Filter>Framework\GameComponents</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceManager.h">
+      <Filter>Framework\GameControllers</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
