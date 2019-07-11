@@ -6,17 +6,18 @@
 class SceneManager
 {
 public:
-    static SceneManager *GetInstance();
-    ~SceneManager();
+	static SceneManager *GetInstance();
+	~SceneManager();
 
-    Scene* GetCurrentScene();
-    void Update(float dt);
-    void ReplaceScene(Scene *scene);
+	Scene* GetCurrentScene();
+	void Update(float dt);
+	void ReplaceScene(Scene *scene);
 
 private:
-    SceneManager();
-    static SceneManager     *mInstace;
-    Scene                   *mCurrentScene;    
+	SceneManager();
+	static SceneManager     *mInstace;
+	Scene                   *mCurrentScene;
+
 };
 
 #endif

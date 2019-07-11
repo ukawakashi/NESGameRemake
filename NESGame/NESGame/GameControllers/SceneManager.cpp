@@ -4,7 +4,8 @@ SceneManager* SceneManager::mInstace = NULL;
 
 SceneManager::SceneManager()
 {
-    mCurrentScene = nullptr;
+	mCurrentScene = nullptr;
+
 }
 
 SceneManager::~SceneManager()
@@ -13,25 +14,25 @@ SceneManager::~SceneManager()
 
 SceneManager* SceneManager::GetInstance()
 {
-    if (!mInstace)
-        mInstace = new SceneManager();
+	if (!mInstace)
+		mInstace = new SceneManager();
 
-    return mInstace;
+	return mInstace;
 }
 
 Scene* SceneManager::GetCurrentScene()
 {
-    return mCurrentScene;
+	return mCurrentScene;
 }
 
 void SceneManager::Update(float dt)
 {
-    mCurrentScene->Update(dt);
+	mCurrentScene->Update(dt);
 }
 
 void SceneManager::ReplaceScene(Scene *scene)
 {
-    delete mCurrentScene;
-
-    mCurrentScene = scene;
+	// delete mCurrentScene;
+	mCurrentScene = NULL;
+	mCurrentScene = scene;
 }
