@@ -180,6 +180,9 @@
     <ClCompile Include="ReadResource.cpp">
       <Filter>Framework\GameComponents</Filter>
     </ClCompile>
+    <ClCompile Include="Rect.cpp">
+      <Filter>Framework\GameComponents</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="GameComponents\Animation.h">
@@ -330,6 +333,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="ReadResource.h">
+      <Filter>Framework\GameComponents</Filter>
+    </ClInclude>
+    <ClInclude Include="Rect.h">
       <Filter>Framework\GameComponents</Filter>
     </ClInclude>
   </ItemGroup>
