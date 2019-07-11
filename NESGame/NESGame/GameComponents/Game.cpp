@@ -1,14 +1,16 @@
 #include "Game.h"
 #include "GameGlobal.h"
 #include "../GameControllers/SceneManager.h"
-#include "../Scenes/DemoScene.h"
-
+#include "../Scenes/MainScene.h"
+#include "../Scenes/Intro1Scene.h"
+#include "../Scenes/Intro2Scene.h"
+#include "../Scenes//MenuScene.h"
+#include "../Scenes/AfterMenuScene.h"
 Game::Game(int fps)
 {
 	mFPS = fps;
-
-	SceneManager::GetInstance()->ReplaceScene(new DemoScene());
-
+	//SceneManager::GetInstance()->ReplaceScene(new MainScene());
+	SceneManager::GetInstance()->ReplaceScene(new IntroScene());
 	InitLoop();
 }
 
@@ -20,7 +22,6 @@ Game::~Game()
 void Game::Update(float dt)
 {
 	SceneManager::GetInstance()->GetCurrentScene()->Update(dt);
-
 	Render();
 }
 

@@ -217,6 +217,7 @@
     <ClInclude Include="MapReader\TmxUtil.h" />
     <ClInclude Include="MapReader\zconf.h" />
     <ClInclude Include="MapReader\zlib.h" />
+    <ClInclude Include="resource.h" />
     <ClInclude Include="Scenes\DemoScene.h" />
   </ItemGroup>
   <ItemGroup>

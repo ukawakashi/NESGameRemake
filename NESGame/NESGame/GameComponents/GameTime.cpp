@@ -13,27 +13,27 @@ GameTime::~GameTime()
 
 GameTime* GameTime::GetInstance()
 {
-    if (!mInstance)
-        mInstance = new GameTime();
+	if (!mInstance)
+		mInstance = new GameTime();
 
-    return mInstance;
+	return mInstance;
 }
 
 void GameTime::StartCounter()
 {
-    if (!QueryPerformanceFrequency(&mClockRate))
-    {
-        return;
-    }
+	if (!QueryPerformanceFrequency(&mClockRate))
+	{
+		return;
+	}
 
-    QueryPerformanceCounter(&mStartTime);
-    
+	QueryPerformanceCounter(&mStartTime);
+
 }
 
 float GameTime::GetCouter()
 {
-    QueryPerformanceCounter(&mEndTime);
-    mDelta.QuadPart = mEndTime.QuadPart - mStartTime.QuadPart;
+	QueryPerformanceCounter(&mEndTime);
+	mDelta.QuadPart = mEndTime.QuadPart - mStartTime.QuadPart;
 
-    return ((float)mDelta.QuadPart / mClockRate.QuadPart);
+	return ((float)mDelta.QuadPart / mClockRate.QuadPart);
 }

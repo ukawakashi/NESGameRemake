@@ -323,6 +323,9 @@
     <ClInclude Include="GameObjects\MapObjects\GameObject.h">
       <Filter>Framework\GameObjects\MapObjects</Filter>
     </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="MapReader\Tmx.h.in">

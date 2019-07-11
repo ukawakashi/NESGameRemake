@@ -7,15 +7,15 @@
 class GameTime
 {
 public:
-    void StartCounter();
-    float GetCouter();
-    static GameTime* GetInstance();
-    ~GameTime();
-
+	void StartCounter();
+	float GetCouter();
+	static GameTime* GetInstance();
+	~GameTime();
+	static LARGE_INTEGER temp;
 private:
-    GameTime();
-    LARGE_INTEGER mStartTime, mEndTime, mDelta, mClockRate;
-    static GameTime *mInstance;
+	GameTime();
+	LARGE_INTEGER mStartTime, mEndTime, mDelta, mClockRate;
+	static GameTime *mInstance;
 };
 
 #endif

@@ -12,27 +12,27 @@
 class Game
 {
 public:
-    Game(int fps = 60);
-    ~Game();
+	Game(int fps = 60);
+	~Game();
 
 protected:
 
-    PDIRECT3DSURFACE9       mBackground,
-                            mBackBuffer;
+	PDIRECT3DSURFACE9       mBackground,
+		mBackBuffer;
 
-    int                     mWidth,
-                            mHeight;
-    static int              mIsDone;
-    float                   mFPS;
+	int                     mWidth,
+		mHeight;
+	static int              mIsDone;
+	float                   mFPS;
 
-    //khoi tao vong lap cho game
-    void InitLoop();
+	//khoi tao vong lap cho game
+	void InitLoop();
 
-    //ham dung de ve sau khi update
-    void Render();
+	//ham dung de ve sau khi update
+	void Render();
 
-    //ham update cua game
-    void Update(float dt);
+	//ham update cua game
+	void Update(float dt);
 };
 
 #endif
