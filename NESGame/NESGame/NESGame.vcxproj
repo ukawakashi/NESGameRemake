@@ -167,6 +167,7 @@
     <ClCompile Include="MapReader\TmxTileOffset.cpp" />
     <ClCompile Include="MapReader\TmxTileset.cpp" />
     <ClCompile Include="MapReader\TmxUtil.cpp" />
+    <ClCompile Include="ReadResource.cpp" />
     <ClCompile Include="Scenes\DemoScene.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -217,6 +218,7 @@
     <ClInclude Include="MapReader\TmxUtil.h" />
     <ClInclude Include="MapReader\zconf.h" />
     <ClInclude Include="MapReader\zlib.h" />
+    <ClInclude Include="ReadResource.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="Scenes\DemoScene.h" />
   </ItemGroup>
