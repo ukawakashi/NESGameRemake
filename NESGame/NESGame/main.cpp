@@ -12,8 +12,8 @@
 
 using namespace std;
 
-#define WIN_NAME L"Game DirectX"
-#define WIN_TITLE L"Game DirectX"
+#define WIN_NAME L"Game Aladdin 4"
+#define WIN_TITLE L"Game Aladdin 4"
 #define FPS 60
 #define KEYBOARD_BUFFERD_SIZE 1024
 
@@ -66,8 +66,9 @@ int initWindow(int cmdShow)
         WS_OVERLAPPEDWINDOW,
         CW_USEDEFAULT,
         CW_USEDEFAULT,
-        GameGlobal::GetWidth(),
-        GameGlobal::GetHeight(),
+        /*GameGlobal::GetWidth(),
+        GameGlobal::GetHeight(),*/
+		800,600,
         NULL,
         NULL,
         mHInstance,
