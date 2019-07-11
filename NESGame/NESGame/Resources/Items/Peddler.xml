@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="Stand1" imagePath="Peddler - Copy.png" width="943" height="482">
+    <sprite x="5" y="8" w="26" h="51" oX="5" oY="8" oW="-560" oH="635" />
+    <sprite x="38" y="6" w="26" h="53" oX="38" oY="6" oW="-560" oH="635" />
+    <sprite x="73" y="5" w="27" h="54" oX="73" oY="5" oW="-560" oH="635" />
+    <sprite x="108" y="4" w="28" h="55" oX="108" oY="4" oW="-560" oH="635" />
+    <sprite x="146" y="4" w="28" h="55" oX="146" oY="4" oW="-560" oH="635" />
+    <sprite x="183" y="4" w="28" h="55" oX="183" oY="4" oW="-560" oH="635" />
+    <sprite x="219" y="4" w="28" h="55" oX="219" oY="4" oW="-560" oH="635" />
+    <sprite x="219" y="4" w="28" h="55" oX="219" oY="4" oW="-560" oH="635" />
+    <sprite x="183" y="4" w="28" h="55" oX="183" oY="4" oW="-560" oH="635" />
+    <sprite x="146" y="4" w="28" h="55" oX="146" oY="4" oW="-560" oH="635" />
+    <sprite x="108" y="4" w="28" h="55" oX="108" oY="4" oW="-560" oH="635" />
+    <sprite x="73" y="5" w="27" h="54" oX="73" oY="5" oW="-560" oH="635" />
+    <sprite x="38" y="6" w="26" h="53" oX="38" oY="6" oW="-560" oH="635" />
+    <sprite x="5" y="8" w="26" h="51" oX="5" oY="8" oW="-560" oH="635" />
+    <sprite x="38" y="6" w="26" h="53" oX="38" oY="6" oW="-560" oH="635" />
+    <sprite x="73" y="5" w="27" h="54" oX="73" oY="5" oW="-560" oH="635" />
+    <sprite x="108" y="4" w="28" h="55" oX="108" oY="4" oW="-560" oH="635" />
+    <sprite x="146" y="4" w="28" h="55" oX="146" oY="4" oW="-560" oH="635" />
+    <sprite x="183" y="4" w="28" h="55" oX="183" oY="4" oW="-560" oH="635" />
+    <sprite x="219" y="4" w="28" h="55" oX="219" oY="4" oW="-560" oH="635" />
+  </Animation>
+  <Animation name="Stand2" imagePath="Peddler - Copy.png" width="943" height="482">
+    <sprite x="5" y="8" w="26" h="51" oX="5" oY="8" oW="-560" oH="635" />
+    <sprite x="38" y="6" w="26" h="53" oX="38" oY="6" oW="-560" oH="635" />
+    <sprite x="73" y="5" w="27" h="54" oX="73" oY="5" oW="-560" oH="635" />
+    <sprite x="108" y="4" w="28" h="55" oX="108" oY="4" oW="-560" oH="635" />
+    <sprite x="146" y="4" w="28" h="55" oX="146" oY="4" oW="-560" oH="635" />
+    <sprite x="183" y="4" w="28" h="55" oX="183" oY="4" oW="-560" oH="635" />
+    <sprite x="219" y="4" w="28" h="55" oX="219" oY="4" oW="-560" oH="635" />
+    <sprite x="219" y="4" w="28" h="55" oX="219" oY="4" oW="-560" oH="635" />
+    <sprite x="183" y="4" w="28" h="55" oX="183" oY="4" oW="-560" oH="635" />
+    <sprite x="146" y="4" w="28" h="55" oX="146" oY="4" oW="-560" oH="635" />
+    <sprite x="108" y="4" w="28" h="55" oX="108" oY="4" oW="-560" oH="635" />
+    <sprite x="73" y="5" w="27" h="54" oX="73" oY="5" oW="-560" oH="635" />
+    <sprite x="38" y="6" w="26" h="53" oX="38" oY="6" oW="-560" oH="635" />
+    <sprite x="5" y="8" w="26" h="51" oX="5" oY="8" oW="-560" oH="635" />
+    <sprite x="38" y="6" w="26" h="53" oX="38" oY="6" oW="-560" oH="635" />
+    <sprite x="73" y="5" w="27" h="54" oX="73" oY="5" oW="-560" oH="635" />
+    <sprite x="108" y="4" w="28" h="55" oX="108" oY="4" oW="-560" oH="635" />
+    <sprite x="146" y="4" w="28" h="55" oX="146" oY="4" oW="-560" oH="635" />
+    <sprite x="183" y="4" w="28" h="55" oX="183" oY="4" oW="-560" oH="635" />
+    <sprite x="219" y="4" w="28" h="55" oX="219" oY="4" oW="-560" oH="635" />
+    <sprite x="254" y="12" w="35" h="47" oX="254" oY="12" oW="-560" oH="635" cX="33" cY="0" />
+    <sprite x="295" y="14" w="50" h="45" oX="295" oY="14" oW="-560" oH="635" cX="40" cY="0" />
+    <sprite x="355" y="10" w="67" h="49" oX="355" oY="10" oW="-560" oH="635" cX="33" cY="0" />
+    <sprite x="436" y="11" w="58" h="49" oX="436" oY="11" oW="-560" oH="635" cX="28" cY="48" />
+    <sprite x="505" y="10" w="52" h="49" oX="505" oY="10" oW="-560" oH="635" cX="30" cY="0" />
+    <sprite x="565" y="10" w="52" h="49" oX="565" oY="10" oW="-560" oH="635" cX="30" cY="0" />
+    <sprite x="627" y="10" w="52" h="49" oX="627" oY="10" oW="-560" oH="635" cX="30" cY="0" />
+	<sprite x="436" y="11" w="58" h="49" oX="436" oY="11" oW="-560" oH="635" cX="28" cY="48" />
+    <sprite x="505" y="10" w="52" h="49" oX="505" oY="10" oW="-560" oH="635" cX="30" cY="0" />
+    <sprite x="565" y="10" w="52" h="49" oX="565" oY="10" oW="-560" oH="635" cX="30" cY="0" />
+    <sprite x="627" y="10" w="52" h="49" oX="627" oY="10" oW="-560" oH="635" cX="30" cY="0" />
+	<sprite x="436" y="11" w="58" h="49" oX="436" oY="11" oW="-560" oH="635" cX="28" cY="48" />
+    <sprite x="505" y="10" w="52" h="49" oX="505" oY="10" oW="-560" oH="635" cX="30" cY="0" />
+    <sprite x="565" y="10" w="52" h="49" oX="565" oY="10" oW="-560" oH="635" cX="30" cY="0" />
+    <sprite x="627" y="10" w="52" h="49" oX="627" oY="10" oW="-560" oH="635" cX="30" cY="0" />
+  </Animation>
+  <Animation name="Showing" imagePath="Peddler - Copy.png" width="943" height="482">
+    <sprite x="5" y="100" w="53" h="56" oX="5" oY="100" oW="457" oH="971" cX="0" cY="0" />
+    <sprite x="75" y="92" w="60" h="64" oX="75" oY="92" oW="457" oH="971" cX="57" cY="0" />
+    <sprite x="154" y="73" w="59" h="83" oX="154" oY="73" oW="457" oH="971" cX="58" cY="0" />
+    <sprite x="227" y="72" w="83" h="84" oX="227" oY="72" oW="457" oH="971" cX="83" cY="0" />
+    <sprite x="325" y="71" w="87" h="85" oX="325" oY="71" oW="457" oH="971" cX="85" cY="0" />
+    <sprite x="416" y="69" w="91" h="87" oX="416" oY="69" oW="457" oH="971" cX="86" cY="0" />
+    <sprite x="513" y="69" w="92" h="87" oX="513" oY="69" oW="457" oH="971" cX="87" cY="0" />
+    <sprite x="613" y="86" w="77" h="70" oX="613" oY="86" oW="457" oH="971" cX="66" cY="0" />
+    <sprite x="701" y="85" w="98" h="70" oX="701" oY="85" oW="457" oH="971" cX="66" cY="0" />
+    <sprite x="809" y="85" w="101" h="69" oX="809" oY="85" oW="457" oH="971" cX="63" cY="0" />
+    <sprite x="613" y="86" w="77" h="70" oX="613" oY="86" oW="457" oH="971" cX="65" cY="0" />
+    <sprite x="701" y="85" w="98" h="70" oX="701" oY="85" oW="457" oH="971" cX="65" cY="0" />
+    <sprite x="809" y="85" w="101" h="69" oX="809" oY="85" oW="457" oH="971" cX="64" cY="0" />
+    <sprite x="10" y="304" w="148" h="56" oX="10" oY="304" oW="457" oH="971" cX="100" cY="55" />
+    <sprite x="180" y="306" w="133" h="64" oX="180" oY="306" oW="457" oH="971" cX="90" cY="55" />
+    <sprite x="339" y="307" w="106" h="58" oX="339" oY="307" oW="457" oH="971" cX="65" cY="55" />
+    <sprite x="490" y="312" w="108" h="51" oX="490" oY="312" oW="457" oH="971" cX="67" cY="51" />
+    <sprite x="617" y="315" w="115" h="47" oX="617" oY="315" oW="457" oH="971" cX="75" cY="48" />
+    <sprite x="751" y="304" w="122" h="59" oX="751" oY="304" oW="457" oH="971" cX="75" cY="58" />
+    <sprite x="10" y="410" w="122" h="60" oX="10" oY="410" oW="457" oH="971" cX="80" cY="60" />
+	<sprite x="152" y="416" w="60" h="53" oX="152" oY="416" oW="321" oH="558" cX="75" cY="0" />
+    <sprite x="233" y="412" w="104" h="57" oX="233" oY="412" oW="321" oH="558" cX="95" cY="0" />
+    <sprite x="354" y="388" w="93" h="81" oX="354" oY="388" oW="321" oH="558" cX="90" cY="0" />
+    <sprite x="465" y="398" w="82" h="70" oX="465" oY="398" oW="321" oH="558" cX="83" cY="0" />
+    <sprite x="567" y="400" w="80" h="67" oX="567" oY="400" oW="321" oH="558" cX="83" cY="0" />
+    <sprite x="660" y="400" w="80" h="67" oX="660" oY="400" oW="321" oH="558" cX="83" cY="0" />
+  </Animation>
+  <Animation name="Shell" imagePath="Peddler - Copy.png" width="943" height="482">
+    <sprite x="152" y="416" w="60" h="53" oX="152" oY="416" oW="321" oH="558" />
+    <sprite x="233" y="412" w="104" h="57" oX="233" oY="412" oW="321" oH="558" />
+    <sprite x="354" y="388" w="93" h="81" oX="354" oY="388" oW="321" oH="558" />
+    <sprite x="465" y="398" w="82" h="70" oX="465" oY="398" oW="321" oH="558" />
+    <sprite x="567" y="400" w="80" h="67" oX="567" oY="400" oW="321" oH="558" />
+    <sprite x="660" y="400" w="80" h="67" oX="660" oY="400" oW="321" oH="558" />
+  </Animation>
+  <Animation name="Sell2" imagePath="Peddler - Copy.png" width="943" height="482">
+    <sprite x="660" y="400" w="80" h="67" oX="660" oY="400" oW="-186" oH="80" />
+  </Animation>
+</Animations>

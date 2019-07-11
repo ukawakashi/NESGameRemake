@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="Instruction" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="8" y="18" w="296" h="174" oX="8" oY="18" oW="245" oH="296" cX="0" cY="0"/>
+  </Animation>
+  <Animation name="Background" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="2" y="199" w="320" h="215" oX="2" oY="199" oW="465" oH="320" cX="0" cY="0"/>
+  </Animation>
+  <Animation name="GenieBonusLevel" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="335" y="45" w="38" h="49" oX="335" oY="45" oW="-404" oH="197" cX="0" cY="0" />
+    <sprite x="389" y="45" w="42" h="51" oX="389" oY="45" oW="-404" oH="197" cX="0" cY="0" />
+    <sprite x="443" y="49" w="44" h="43" oX="443" oY="49" oW="-404" oH="197" cX="0" cY="0" />
+    <sprite x="497" y="48" w="44" h="43" oX="497" oY="48" oW="-404" oH="197" cX="0" cY="0" />
+  </Animation>
+  <Animation name="AbuBonusLevel" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="345" y="213" w="19" h="18" oX="345" oY="213" oW="-364" oH="270" cX="0" cY="0" />
+    <sprite x="368" y="213" w="19" h="18" oX="368" oY="213" oW="-364" oH="270" cX="0" cY="0" />
+    <sprite x="391" y="211" w="19" h="20" oX="391" oY="211" oW="-364" oH="270" cX="0" cY="0" />
+    <sprite x="415" y="209" w="19" h="22" oX="415" oY="209" oW="-364" oH="270" cX="0" cY="0" />
+    <sprite x="440" y="209" w="19" h="22" oX="440" oY="209" oW="-364" oH="270" cX="0" cY="0" />
+    <sprite x="462" y="204" w="31" h="27" oX="462" oY="204" oW="-364" oH="270" cX="0" cY="0" />
+    <sprite x="499" y="205" w="31" h="27" oX="499" oY="205" oW="-364" oH="270" cX="0" cY="0" />
+    <sprite x="542" y="207" w="21" h="25" oX="542" oY="207" oW="-364" oH="270" cX="0" cY="0" />
+    <sprite x="570" y="207" w="21" h="25" oX="570" oY="207" oW="-364" oH="270" cX="0" cY="0" />
+    <sprite x="596" y="213" w="19" h="19" oX="596" oY="213" oW="-364" oH="270" cX="0" cY="0" />
+  </Animation>
+  <Animation name="1up" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="340" y="140" w="22" h="23" oX="340" oY="140" oW="-202" oH="48" cX="0" cY="0" />
+    <sprite x="367" y="141" w="24" h="23" oX="367" oY="141" oW="-202" oH="48" cX="0" cY="0" />
+  </Animation>
+  <Animation name="ExtraHealth" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="343" y="171" w="19" h="23" oX="343" oY="171" oW="-292" oH="163" cX="0" cY="0" />
+    <sprite x="366" y="173" w="17" h="22" oX="366" oY="173" oW="-292" oH="163" cX="0" cY="0" />
+    <sprite x="387" y="175" w="16" h="20" oX="387" oY="175" oW="-292" oH="163" cX="0" cY="0" />
+    <sprite x="406" y="175" w="17" h="20" oX="406" oY="175" oW="-292" oH="163" cX="0" cY="0" />
+    <sprite x="426" y="173" w="19" h="22" oX="426" oY="173" oW="-292" oH="163" cX="0" cY="0" />
+    <sprite x="448" y="174" w="17" h="22" oX="448" oY="174" oW="-292" oH="163" cX="0" cY="0" />
+    <sprite x="467" y="176" w="16" h="20" oX="467" oY="176" oW="-292" oH="163" cX="0" cY="0" />
+    <sprite x="486" y="176" w="17" h="20" oX="486" oY="176" oW="-292" oH="163" cX="0" cY="0" />
+  </Animation>
+  <Animation name="Openup" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="349" y="240" w="10" h="22" oX="349" oY="240" oW="-143" oH="60" cX="0" cY="0" />
+    <sprite x="366" y="240" w="10" h="22" oX="366" oY="240" oW="-143" oH="60" cX="0" cY="0" />
+    <sprite x="382" y="240" w="10" h="22" oX="382" oY="240" oW="-143" oH="60" cX="0" cY="0" />
+    <sprite x="399" y="240" w="10" h="22" oX="399" oY="240" oW="-143" oH="60" cX="0" cY="0" />
+  </Animation>
+  <Animation name="OpenupBig" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="348" y="273" w="37" h="38" oX="348" oY="273" oW="-311" oH="317" cX="0" cY="0" />
+    <sprite x="394" y="272" w="37" h="40" oX="394" oY="272" oW="-311" oH="317" cX="0" cY="0" />
+    <sprite x="438" y="272" w="37" h="41" oX="438" oY="272" oW="-311" oH="317" cX="0" cY="0" />
+    <sprite x="484" y="274" w="37" h="41" oX="484" oY="274" oW="-311" oH="317" cX="0" cY="0" />
+    <sprite x="530" y="275" w="37" h="40" oX="530" oY="275" oW="-311" oH="317" cX="0" cY="0" />
+    <sprite x="577" y="276" w="36" h="38" oX="577" oY="276" oW="-311" oH="317" cX="0" cY="0" />
+    <sprite x="626" y="281" w="32" h="35" oX="626" oY="281" oW="-311" oH="317" cX="0" cY="0" />
+  </Animation>
+  <Animation name="Trumpet" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="357" y="343" w="24" h="13" oX="357" oY="343" oW="5" oH="24" cX="0" cY="0" />
+  </Animation>
+  <Animation name="TuneRedSmall" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="416" y="361" w="6" h="10" oX="416" oY="361" oW="-47" oH="6" cX="0" cY="0" />
+  </Animation>
+  <Animation name="TuneRedBig" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="395" y="330" w="15" h="10" oX="395" oY="330" oW="-53" oH="15" cX="0" cY="0" />
+  </Animation>
+  <Animation name="TuneBlueSmall" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="417" y="332" w="5" h="8" oX="417" oY="332" oW="-79" oH="5" cX="0" cY="0" />
+  </Animation>
+  <Animation name="TuneBlueBig" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="394" y="347" w="15" h="8" oX="394" oY="347" oW="-36" oH="15" cX="0" cY="0" />
+  </Animation>
+  <Animation name="TuneYellowSmall" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="416" y="345" w="7" h="10" oX="416" oY="345" oW="-63" oH="7" cX="0" cY="0" />
+  </Animation>
+  <Animation name="TuneYellowBig" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="395" y="360" w="13" h="11" oX="395" oY="360" oW="-23" oH="13" cX="0" cY="0" />
+  </Animation>
+  <Animation name="Color" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="447" y="359" w="7" h="6" oX="447" oY="359" oW="-154" oH="79" cX="0" cY="0" />
+    <sprite x="456" y="359" w="7" h="6" oX="456" oY="359" oW="-154" oH="79" cX="0" cY="0" />
+    <sprite x="456" y="359" w="7" h="6" oX="456" oY="359" oW="-154" oH="79" cX="0" cY="0" />
+    <sprite x="474" y="359" w="7" h="6" oX="474" oY="359" oW="-154" oH="79" cX="0" cY="0" />
+    <sprite x="483" y="359" w="7" h="6" oX="483" oY="359" oW="-154" oH="79" cX="0" cY="0" />
+    <sprite x="492" y="359" w="7" h="6" oX="492" oY="359" oW="-154" oH="79" cX="0" cY="0" />
+    <sprite x="501" y="359" w="7" h="6" oX="501" oY="359" oW="-154" oH="79" cX="0" cY="0" />
+    <sprite x="510" y="359" w="7" h="6" oX="510" oY="359" oW="-154" oH="79" cX="0" cY="0" />
+    <sprite x="519" y="359" w="7" h="6" oX="519" oY="359" oW="-154" oH="79" cX="0" cY="0" />
+  </Animation>
+  <Animation name="GenieShaking" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="344" y="415" w="39" h="48" oX="344" oY="415" oW="115" oH="144" cX="0" cY="0" />
+    <sprite x="394" y="415" w="51" h="49" oX="394" oY="415" oW="115" oH="144" cX="0" cY="0" />
+    <sprite x="456" y="416" w="52" h="48" oX="456" oY="416" oW="115" oH="144" cX="0" cY="0" />
+  </Animation>
+  <Animation name="Checkpoint" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="19" y="424" w="19" h="36" oX="19" oY="424" oW="450" oH="300" cX="0" cY="0" />
+    <sprite x="49" y="428" w="23" h="36" oX="49" oY="428" oW="450" oH="300" cX="0" cY="0" />
+    <sprite x="78" y="437" w="34" h="36" oX="78" oY="437" oW="450" oH="300" cX="0" cY="0" />
+    <sprite x="119" y="425" w="19" h="36" oX="119" oY="425" oW="450" oH="300" cX="0" cY="0" />
+    <sprite x="145" y="425" w="22" h="36" oX="145" oY="425" oW="450" oH="300" cX="0" cY="0" />
+    <sprite x="174" y="426" w="25" h="36" oX="174" oY="426" oW="450" oH="300" cX="0" cY="0" />
+    <sprite x="207" y="426" w="23" h="36" oX="207" oY="426" oW="450" oH="300" cX="0" cY="0" />
+    <sprite x="239" y="427" w="20" h="36" oX="239" oY="427" oW="450" oH="300" cX="0" cY="0" />
+    <sprite x="270" y="428" w="23" h="36" oX="270" oY="428" oW="450" oH="300" cX="0" cY="0" />
+    <sprite x="302" y="429" w="22" h="36" oX="302" oY="429" oW="450" oH="300" cX="0" cY="0" />
+  </Animation>
+  <Animation name="apple" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="341" y="17" w="11" h="11" oX="341" oY="17" oW="-313" oH="11" cX="0" cY="0" />
+  </Animation>
+  <Animation name="lamp" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="369" y="15" w="32" h="15" oX="369" oY="15" oW="-330" oH="32" cX="0" cY="0" />
+  </Animation>
+  <Animation name="Knobstick" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="414" y="13" w="43" h="17" oX="414" oY="13" oW="-371" oH="43" cX="0" cY="0" />
+  </Animation>
+  <Animation name="rock" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="340" y="111" w="17" h="18" oX="340" oY="111" oW="-417" oH="222" cX="0" cY="0" />
+    <sprite x="363" y="111" w="17" h="18" oX="363" oY="111" oW="-417" oH="222" cX="0" cY="0" />
+    <sprite x="386" y="111" w="17" h="18" oX="386" oY="111" oW="-417" oH="222" cX="0" cY="0" />
+    <sprite x="409" y="111" w="17" h="18" oX="409" oY="111" oW="-417" oH="222" cX="0" cY="0" />
+    <sprite x="432" y="110" w="17" h="18" oX="432" oY="110" oW="-417" oH="222" cX="9" cY="10" />
+    <sprite x="454" y="105" w="31" h="24" oX="454" oY="105" oW="-417" oH="222" cX="15" cY="15" />
+    <sprite x="492" y="108" w="22" h="19" oX="492" oY="108" oW="-417" oH="222" cX="9" cY="13" />
+    <sprite x="522" y="112" w="17" h="18" oX="522" oY="112" oW="-417" oH="222" cX="9" cY="9" />
+    <sprite x="545" y="112" w="17" h="18" oX="545" oY="112" oW="-417" oH="222" cX="9" cY="9" />
+  </Animation>
+  <Animation name="lobby" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="454" y="144" w="33" h="13" oX="454" oY="144" oW="-287" oH="33" cX="0" cY="0" />
+  </Animation>
+  <Animation name="FlagPole" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="0" y="0" w="46" h="36" oX="340" oY="111" oW="-417" oH="222" cX="0" cY="0" />
+    <sprite x="66" y="0" w="45" h="36" oX="363" oY="111" oW="-417" oH="222" cX="0" cY="0" />
+    <sprite x="133" y="0" w="38" h="36" oX="386" oY="111" oW="-417" oH="222" cX="0" cY="0" />
+    <sprite x="0" y="0" w="46" h="36" oX="409" oY="111" oW="-417" oH="222" cX="0" cY="0" />
+    <sprite x="66" y="0" w="45" h="36" oX="432" oY="110" oW="-417" oH="222" cX="0" cY="0" />
+    <sprite x="0" y="0" w="46" h="36" oX="454" oY="105" oW="-417" oH="222" cX="0" cY="0" />
+    <sprite x="133" y="0" w="38" h="36" oX="492" oY="108" oW="-417" oH="222" cX="0" cY="0" />
+    <sprite x="0" y="0" w="46" h="36" oX="522" oY="112" oW="-417" oH="222" cX="0" cY="0" />
+  </Animation>
+  <Animation name="HealthBar1" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="34" y="487" w="144" h="31" oX="34" oY="487" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="188" y="487" w="144" h="31" oX="188" oY="487" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="339" y="487" w="143" h="31" oX="339" oY="487" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="487" y="487" w="143" h="31" oX="487" oY="487" oW="1012" oH="598" cX="0" cY="0" />
+	</Animation>
+	<Animation name="HealthBar2" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="34" y="535" w="131" h="31" oX="34" oY="535" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="175" y="535" w="131" h="31" oX="175" oY="535" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="313" y="535" w="130" h="31" oX="313" oY="535" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="449" y="535" w="130" h="31" oX="449" oY="535" oW="1012" oH="598" cX="0" cY="0" />
+	</Animation>
+	<Animation name="HealthBar3" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="34" y="581" w="120" h="31" oX="34" oY="581" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="164" y="581" w="120" h="31" oX="164" oY="581" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="294" y="581" w="119" h="31" oX="294" oY="581" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="423" y="581" w="119" h="31" oX="423" oY="581" oW="1012" oH="598" cX="0" cY="0" />
+	</Animation>
+	<Animation name="HealthBar4" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="34" y="628" w="112" h="31" oX="34" oY="628" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="156" y="628" w="112" h="31" oX="156" oY="628" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="278" y="628" w="111" h="31" oX="278" oY="628" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="399" y="628" w="111" h="31" oX="399" oY="628" oW="1012" oH="598" cX="0" cY="0" />
+	</Animation>
+	<Animation name="HealthBar5" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="34" y="675" w="104" h="31" oX="34" oY="675" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="148" y="675" w="104" h="31" oX="148" oY="675" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="262" y="675" w="103" h="31" oX="262" oY="675" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="375" y="675" w="103" h="31" oX="375" oY="675" oW="1012" oH="598" cX="0" cY="0" />
+	</Animation>
+	<Animation name="HealthBar6" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="34" y="722" w="96" h="31" oX="34" oY="722" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="140" y="722" w="96" h="31" oX="140" oY="722" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="246" y="722" w="95" h="31" oX="246" oY="722" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="351" y="722" w="95" h="31" oX="351" oY="722" oW="1012" oH="598" cX="0" cY="0" />
+	</Animation>
+	<Animation name="HealthBar7" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="34" y="769" w="88" h="31" oX="34" oY="769" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="133" y="769" w="88" h="31" oX="133" oY="769" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="231" y="769" w="87" h="31" oX="231" oY="769" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="328" y="769" w="87" h="31" oX="328" oY="769" oW="1012" oH="598" cX="0" cY="0" />
+	</Animation>
+	<Animation name="HealthBar8" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="34" y="816" w="80" h="31" oX="34" oY="816" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="124" y="816" w="80" h="31" oX="124" oY="816" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="214" y="816" w="79" h="31" oX="214" oY="816" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="303" y="816" w="79" h="31" oX="303" oY="816" oW="1012" oH="598" cX="0" cY="0" />
+	</Animation>
+	<Animation name="HealthBar9" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="34" y="863" w="71" h="31" oX="34" oY="863" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="115" y="863" w="71" h="31" oX="115" oY="863" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="196" y="863" w="72" h="31" oX="196" oY="863" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="278" y="863" w="72" h="31" oX="278" oY="863" oW="1012" oH="598" cX="0" cY="0" />
+	</Animation>
+	<Animation name="HealthBar10" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="34" y="910" w="63" h="28" oX="34" oY="910" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="107" y="910" w="63" h="28" oX="107" oY="910" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="180" y="910" w="64" h="28" oX="180" oY="910" oW="1012" oH="598" cX="0" cY="0" />
+    <sprite x="254" y="909" w="64" h="29" oX="254" oY="909" oW="1012" oH="598" cX="0" cY="0" />
+	</Animation>
+  	<Animation name="GoldenLamp" imagePath="24322132_860232247491355_1732377863_o - Copy.png" width="664" height="1000">
+    <sprite x="34" y="954" w="48" h="23" oX="34" oY="954" oW="1012" oH="598" cX="0" cY="0" />
+	</Animation>
+</Animations>

@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="ManThrowBowl" imagePath="Civilian Enemies.png" width="1065" height="588">
+    <sprite x="11" y="35" w="11" h="21" oX="11" oY="35" oW="-338" oH="383" cX="0" cY="0" />
+    <sprite x="42" y="32" w="17" h="24" oX="42" oY="32" oW="-338" oH="383" cX="0" cY="0" />
+    <sprite x="73" y="29" w="22" h="31" oX="73" oY="29" oW="-338" oH="383" cX="0" cY="0" />
+    <sprite x="107" y="29" w="29" h="30" oX="107" oY="29" oW="-338" oH="383" cX="0" cY="0" />
+    <sprite x="145" y="26" w="41" h="35" oX="145" oY="26" oW="-338" oH="383" cX="0" cY="0" />
+    <sprite x="194" y="26" w="41" h="40" oX="194" oY="26" oW="-338" oH="383" cX="0" cY="0" />
+    <sprite x="251" y="27" w="43" h="40" oX="251" oY="27" oW="-338" oH="383" cX="0" cY="0" />
+    <sprite x="306" y="31" w="25" h="21" oX="306" oY="31" oW="-338" oH="383" cX="0" cY="0" />
+    <sprite x="345" y="36" w="18" h="12" oX="345" oY="36" oW="-338" oH="383" cX="0" cY="0" />
+    <sprite x="382" y="37" w="8" h="5" oX="382" oY="37" oW="-338" oH="383" cX="0" cY="0" />
+  </Animation>
+  <Animation name="ManThrowBowlPrototype" imagePath="Civilian Enemies.png" width="1065" height="588">
+    <sprite x="417" y="21" w="20" h="29" oX="417" oY="21" oW="-680" oH="329" cX="0" cY="0" />
+    <sprite x="451" y="21" w="20" h="33" oX="451" oY="21" oW="-680" oH="329" cX="0" cY="0" />
+    <sprite x="484" y="21" w="20" h="39" oX="484" oY="21" oW="-680" oH="329" cX="0" cY="0" />
+    <sprite x="516" y="21" w="25" h="37" oX="516" oY="21" oW="-680" oH="329" cX="0" cY="0" />
+    <sprite x="547" y="21" w="32" h="32" oX="547" oY="21" oW="-680" oH="329" cX="0" cY="0" />
+    <sprite x="584" y="6" w="39" h="44" oX="584" oY="6" oW="-680" oH="329" cX="0" cY="0" />
+    <sprite x="626" y="13" w="30" h="37" oX="626" oY="13" oW="-680" oH="329" cX="0" cY="0" />
+    <sprite x="662" y="21" w="25" h="29" oX="662" oY="21" oW="-680" oH="329" cX="0" cY="0" />
+    <sprite x="695" y="21" w="20" h="29" oX="695" oY="21" oW="-680" oH="329" cX="0" cY="0" />
+    <sprite x="726" y="21" w="20" h="29" oX="726" oY="21" oW="-680" oH="329" cX="0" cY="0" />
+  </Animation>
+  <Animation name="Bowl" imagePath="Civilian Enemies.png" width="1065" height="588">
+    <sprite x="15" y="97" w="28" h="20" oX="15" oY="97" oW="110" oH="221" cX="0" cY="0" />
+    <sprite x="56" y="95" w="24" h="23" oX="56" oY="95" oW="110" oH="221" cX="0" cY="0" />
+    <sprite x="90" y="95" w="26" h="21" oX="90" oY="95" oW="110" oH="221" cX="0" cY="0" />
+    <sprite x="127" y="98" w="26" h="15" oX="127" oY="98" oW="110" oH="221" cX="0" cY="0" />
+    <sprite x="164" y="92" w="24" h="23" oX="164" oY="92" oW="110" oH="221" cX="0" cY="0" />
+    <sprite x="204" y="94" w="21" h="24" oX="204" oY="94" oW="110" oH="221" cX="0" cY="0" />
+  </Animation>
+  <Animation name="BowlLeftBreak" imagePath="Civilian Enemies.png" width="1065" height="588">
+    <sprite x="235" y="100" w="37" h="14" oX="235" oY="100" oW="-821" oH="763" cX="0" cY="0" />
+    <sprite x="292" y="94" w="38" h="19" oX="292" oY="94" oW="-821" oH="763" cX="0" cY="0" />
+    <sprite x="376" y="94" w="36" h="23" oX="376" oY="94" oW="-821" oH="763" cX="0" cY="0" />
+    <sprite x="472" y="88" w="39" h="33" oX="472" oY="88" oW="-821" oH="763" cX="0" cY="0" />
+    <sprite x="578" y="85" w="42" h="32" oX="578" oY="85" oW="-821" oH="763" cX="0" cY="0" />
+    <sprite x="695" y="83" w="38" h="35" oX="695" oY="83" oW="-821" oH="763" cX="0" cY="0" />
+    <sprite x="814" y="84" w="37" h="35" oX="814" oY="84" oW="-821" oH="763" cX="0" cY="0" />
+    <sprite x="954" y="81" w="23" h="29" oX="954" oY="81" oW="-821" oH="763" cX="0" cY="0" />
+  </Animation>
+  <Animation name="BowlRightBreak" imagePath="Civilian Enemies.png" width="1065" height="588">
+    <sprite x="235" y="100" w="37" h="14" oX="235" oY="100" oW="-899" oH="841" cX="0" cY="0" />
+    <sprite x="331" y="97" w="29" h="18" oX="331" oY="97" oW="-899" oH="841" cX="0" cY="0" />
+    <sprite x="418" y="94" w="34" h="25" oX="418" oY="94" oW="-899" oH="841" cX="0" cY="0" />
+    <sprite x="518" y="88" w="39" h="32" oX="518" oY="88" oW="-899" oH="841" cX="0" cY="0" />
+    <sprite x="631" y="85" w="42" h="32" oX="631" oY="85" oW="-899" oH="841" cX="0" cY="0" />
+    <sprite x="752" y="83" w="38" h="35" oX="752" oY="83" oW="-899" oH="841" cX="0" cY="0" />
+    <sprite x="878" y="84" w="37" h="35" oX="878" oY="84" oW="-899" oH="841" cX="0" cY="0" />
+    <sprite x="1032" y="81" w="23" h="29" oX="1032" oY="81" oW="-899" oH="841" cX="0" cY="0" />
+  </Animation>
+  <Animation name="Circus" imagePath="Civilian Enemies.png" width="1065" height="588">
+    <sprite x="8" y="157" w="48" h="80" oX="8" oY="157" oW="233" oH="351" cX="0" cY="0" />
+    <sprite x="67" y="152" w="46" h="85" oX="67" oY="152" oW="233" oH="351" cX="25" cY="0" />
+    <sprite x="127" y="156" w="38" h="81" oX="127" oY="156" oW="233" oH="351" cX="19" cY="0" />
+    <sprite x="179" y="160" w="50" h="77" oX="179" oY="160" oW="233" oH="351" cX="25" cY="0" />
+    <sprite x="240" y="160" w="64" h="77" oX="240" oY="160" oW="233" oH="351" cX="27" cY="0" />
+    <sprite x="314" y="170" w="55" h="67" oX="314" oY="170" oW="233" oH="351" cX="25" cY="0" />
+	<sprite x="376" y="158" w="56" h="79" oX="376" oY="158" oW="16" oH="454" cX="33" cY="0" />
+    <sprite x="438" y="177" w="52" h="60" oX="438" oY="177" oW="16" oH="454" cX="31" cY="0" />
+    <sprite x="502" y="156" w="62" h="81" oX="502" oY="156" oW="16" oH="454" cX="19" cY="0" />
+    <sprite x="569" y="159" w="46" h="78" oX="569" oY="159" oW="16" oH="454" cX="25" cY="0" />
+    <sprite x="628" y="160" w="61" h="77" oX="628" oY="160" oW="16" oH="454" cX="0" cY="0" />
+  </Animation>
+  <Animation name="CircusThrow" imagePath="Civilian Enemies.png" width="1065" height="588">
+    <sprite x="376" y="158" w="56" h="79" oX="376" oY="158" oW="16" oH="454" cX="0" cY="0" />
+    <sprite x="438" y="177" w="52" h="60" oX="438" oY="177" oW="16" oH="454" cX="0" cY="0" />
+    <sprite x="502" y="156" w="62" h="81" oX="502" oY="156" oW="16" oH="454" cX="0" cY="0" />
+    <sprite x="569" y="159" w="46" h="78" oX="569" oY="159" oW="16" oH="454" cX="0" cY="0" />
+    <sprite x="628" y="160" w="61" h="77" oX="628" oY="160" oW="16" oH="454" cX="0" cY="0" />
+    <sprite x="240" y="160" w="64" h="77" oX="240" oY="160" oW="16" oH="454" cX="0" cY="0" />
+  </Animation>
+  <Animation name="Circus2" imagePath="Civilian Enemies.png" width="1065" height="588">
+    <sprite x="18" y="253" w="36" h="64" oX="18" oY="253" oW="293" oH="551" cX="0" cY="0" />
+    <sprite x="67" y="254" w="34" h="63" oX="67" oY="254" oW="293" oH="551" cX="0" cY="0" />
+    <sprite x="115" y="256" w="30" h="61" oX="115" oY="256" oW="293" oH="551" cX="0" cY="0" />
+    <sprite x="164" y="258" w="33" h="59" oX="164" oY="258" oW="293" oH="551" cX="0" cY="0" />
+    <sprite x="214" y="257" w="45" h="60" oX="214" oY="257" oW="293" oH="551" cX="0" cY="0" />
+    <sprite x="271" y="254" w="55" h="63" oX="271" oY="254" oW="293" oH="551" cX="0" cY="0" />
+    <sprite x="345" y="256" w="56" h="61" oX="345" oY="256" oW="293" oH="551" cX="0" cY="0" />
+    <sprite x="415" y="255" w="50" h="62" oX="415" oY="255" oW="293" oH="551" cX="0" cY="0" />
+    <sprite x="475" y="253" w="45" h="64" oX="475" oY="253" oW="293" oH="551" cX="0" cY="0" />
+    <sprite x="534" y="253" w="38" h="64" oX="534" oY="253" oW="293" oH="551" cX="0" cY="0" />
+  </Animation>
+  <Animation name="Circus2Knife" imagePath="Civilian Enemies.png" width="1065" height="588">
+    <sprite x="599" y="272" w="41" h="20" oX="599" oY="272" oW="-443" oH="215" cX="0" cY="0" />
+    <sprite x="665" y="265" w="21" h="37" oX="665" oY="265" oW="-443" oH="215" cX="0" cY="0" />
+    <sprite x="709" y="280" w="40" h="12" oX="709" oY="280" oW="-443" oH="215" cX="0" cY="0" />
+    <sprite x="762" y="263" w="19" h="36" oX="762" oY="263" oW="-443" oH="215" cX="0" cY="0" />
+  </Animation>
+  <Animation name="SneakerStand" imagePath="Civilian Enemies.png" width="1065" height="588">
+    <sprite x="18" y="360" w="35" h="38" oX="18" oY="360" oW="388" oH="242" cX="0" cY="0" />
+    <sprite x="60" y="366" w="39" h="31" oX="60" oY="366" oW="388" oH="242" cX="0" cY="0" />
+    <sprite x="109" y="335" w="32" h="63" oX="109" oY="335" oW="388" oH="242" cX="0" cY="0" />
+    <sprite x="147" y="349" w="33" h="48" oX="147" oY="349" oW="388" oH="242" cX="0" cY="0" />
+    <sprite x="186" y="350" w="37" h="45" oX="186" oY="350" oW="388" oH="242" cX="0" cY="0" />
+    <sprite x="226" y="350" w="37" h="45" oX="226" oY="350" oW="388" oH="242" cX="0" cY="0" />
+  </Animation>
+  <Animation name="SneakerAttack" imagePath="Civilian Enemies.png" width="1065" height="588">
+    <sprite x="289" y="355" w="35" h="38" oX="289" oY="355" oW="102" oH="166" cX="0" cY="0" />
+    <sprite x="335" y="355" w="35" h="39" oX="335" oY="355" oW="102" oH="166" cX="0" cY="0" />
+    <sprite x="379" y="353" w="49" h="39" oX="379" oY="353" oW="102" oH="166" cX="18" cY="0" />
+    <sprite x="433" y="353" w="60" h="39" oX="433" oY="353" oW="102" oH="166" cX="18" cY="0" />
+  </Animation>
+  <Animation name="SneakerRun" imagePath="Civilian Enemies.png" width="1065" height="588">
+    <sprite x="20" y="428" w="52" h="45" oX="20" oY="428" oW="457" oH="605" cX="0" cY="0" />
+    <sprite x="79" y="423" w="44" h="45" oX="79" oY="423" oW="457" oH="605" cX="0" cY="0" />
+    <sprite x="126" y="417" w="43" h="50" oX="126" oY="417" oW="457" oH="605" cX="0" cY="0" />
+    <sprite x="174" y="416" w="38" h="50" oX="174" oY="416" oW="457" oH="605" cX="0" cY="0" />
+    <sprite x="217" y="415" w="38" h="50" oX="217" oY="415" oW="457" oH="605" cX="0" cY="0" />
+    <sprite x="263" y="417" w="38" h="48" oX="263" oY="417" oW="457" oH="605" cX="0" cY="0" />
+    <sprite x="307" y="415" w="54" h="45" oX="307" oY="415" oW="457" oH="605" cX="0" cY="0" />
+    <sprite x="370" y="414" w="43" h="47" oX="370" oY="414" oW="457" oH="605" cX="0" cY="0" />
+    <sprite x="422" y="409" w="43" h="51" oX="422" oY="409" oW="457" oH="605" cX="0" cY="0" />
+    <sprite x="470" y="407" w="38" h="52" oX="470" oY="407" oW="457" oH="605" cX="0" cY="0" />
+    <sprite x="517" y="406" w="38" h="52" oX="517" oY="406" oW="457" oH="605" cX="0" cY="0" />
+    <sprite x="566" y="409" w="38" h="49" oX="566" oY="409" oW="457" oH="605" cX="0" cY="0" />
+  </Animation>
+  <Animation name="Trumpet" imagePath="Civilian Enemies.png" width="1065" height="588">
+    <sprite x="14" y="488" w="38" h="38" oX="14" oY="488" oW="513" oH="185" cX="0" cY="0" />
+    <sprite x="64" y="488" w="37" h="38" oX="64" oY="488" oW="513" oH="185" cX="0" cY="0" />
+    <sprite x="112" y="489" w="37" h="38" oX="112" oY="489" oW="513" oH="185" cX="0" cY="0" />
+    <sprite x="161" y="489" w="38" h="38" oX="161" oY="489" oW="513" oH="185" cX="0" cY="0" />
+    <sprite x="112" y="489" w="37" h="38" oX="112" oY="489" oW="513" oH="185" cX="0" cY="0" />
+    <sprite x="64" y="488" w="37" h="38" oX="64" oY="488" oW="513" oH="185" cX="0" cY="0" />
+  </Animation>
+  <Animation name="TrumpetSnake" imagePath="Civilian Enemies.png" width="1065" height="588">
+    <sprite x="14" y="555" w="22" h="15" oX="14" oY="555" oW="561" oH="348" cX="0" cY="0" />
+    <sprite x="41" y="555" w="22" h="15" oX="41" oY="555" oW="561" oH="348" cX="0" cY="0" />
+    <sprite x="69" y="552" w="23" h="18" oX="69" oY="552" oW="561" oH="348" cX="0" cY="0" />
+    <sprite x="99" y="556" w="13" h="15" oX="99" oY="556" oW="561" oH="348" cX="0" cY="0" />
+    <sprite x="128" y="542" w="30" h="29" oX="128" oY="542" oW="561" oH="348" cX="0" cY="0" />
+    <sprite x="156" y="537" w="52" h="34" oX="156" oY="537" oW="561" oH="348" cX="0" cY="0" />
+    <sprite x="212" y="551" w="66" h="20" oX="212" oY="551" oW="561" oH="348" cX="0" cY="0" />
+    <sprite x="286" y="554" w="48" h="17" oX="286" oY="554" oW="561" oH="348" cX="0" cY="0" />
+    <sprite x="340" y="552" w="22" h="19" oX="340" oY="552" oW="561" oH="348" cX="0" cY="0" />
+  </Animation>
+</Animations>

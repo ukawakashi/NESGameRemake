@@ -1,6 +1,6 @@
 #include "GameMap.h"
 
-GameMap::GameMap(char* filePath)
+GameMap::GameMap(string filePath)
 {
 	LoadMap(filePath);
 
@@ -11,7 +11,7 @@ GameMap::~GameMap()
 {
 	delete mMap;
 }
-void GameMap::LoadMap(char* filePath)
+void GameMap::LoadMap(string filePath)
 {
 	//Load Sprite cho Apple Object
 	Rect rect;

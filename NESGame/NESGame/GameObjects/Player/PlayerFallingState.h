@@ -12,13 +12,12 @@ public:
 
     void HandleKeyboard(std::map<int, bool> keys);
 
-    void OnCollision(Entity *impactor, Entity::SideCollisions side, Entity::CollisionReturn data);
-
     virtual StateName GetState();
+	void OnCollision(Entity *impactor, Entity::SideCollisions side, Entity::CollisionReturn data);
 
 protected:
-    float acceleratorY;
-    float acceleratorX;
+    //do bien tien van toc sau moi frame tinh bang pixel / s
+   
 
     //neu nhu van toc ban dau = khong thi se khong cho giam toc do
     bool allowMoveX;

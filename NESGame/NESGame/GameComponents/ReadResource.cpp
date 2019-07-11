@@ -19,7 +19,7 @@ ReadResource::~ReadResource()
 	__instance = NULL;
 	delete __instance;
 }
-std::vector<Rect> ReadResource::LoadXML(tinyxml2::XMLDocument *xmlDocument, char* animationName)
+std::vector<Rect> ReadResource::LoadXML(tinyxml2::XMLDocument *xmlDocument, const char* animationName)
 {
 	_listRectSprites.clear();
 	tinyxml2::XMLNode *rootNode = xmlDocument->FirstChildElement("Animations");

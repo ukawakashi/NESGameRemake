@@ -1,4 +1,6 @@
 #pragma once
+//pre define
+#include "../Weapon/Weapon.h"
 class PlayerState;
 class Player;
 
@@ -8,9 +10,9 @@ public:
     PlayerData();
     ~PlayerData();
 
-    Player      *player;
-    PlayerState *state;
-
+    Player      *player=nullptr;
+    PlayerState *state= nullptr;
+	void Update(float dt);
 protected:
     
 };

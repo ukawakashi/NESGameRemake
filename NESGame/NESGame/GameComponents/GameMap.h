@@ -19,7 +19,7 @@ using namespace std;
 class GameMap
 {
 public:
-	GameMap(char* filePath);
+	GameMap(string filePath);
 
 	Tmx::Map* GetMap();
 	void Update(float dt);
@@ -68,7 +68,7 @@ public:
 	D3DXVECTOR2 startStair2, endStair2;
 	D3DXVECTOR2 posStartEnemy11;
 private:
-	void LoadMap(char* filePath);
+	void LoadMap(string filePath);
 	QuadTree                        *mQuadTree;
 	bool isContain(RECT rect1, RECT rect2);
 

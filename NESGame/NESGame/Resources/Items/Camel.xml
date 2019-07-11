@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="Camel" imagePath="Camel.png" width="882" height="99">
+    <sprite x="4" y="21" w="63" h="43" oX="4" oY="21" oW="-608" oH="743" cX="38" cY="0" />
+    <sprite x="73" y="11" w="81" h="53" oX="73" oY="11" oW="-608" oH="743" cX="35" cY="0" />
+    <sprite x="163" y="9" w="95" h="55" oX="163" oY="9" oW="-608" oH="743" cX="45" cY="0" />
+    <sprite x="268" y="9" w="112" h="55" oX="268" oY="9" oW="-608" oH="743" cX="45" cY="0" />
+    <sprite x="396" y="10" w="147" h="54" oX="396" oY="10" oW="-608" oH="743" cX="40" cY="0" />
+    <sprite x="556" y="10" w="134" h="54" oX="556" oY="10" oW="-608" oH="743" cX="45" cY="0" />
+    <sprite x="707" y="19" w="109" h="45" oX="707" oY="19" oW="-608" oH="743" cX="45" cY="0" />
+    <sprite x="268" y="9" w="112" h="55" oX="268" oY="9" oW="-608" oH="743" cX="45" cY="0" />
+    <sprite x="163" y="9" w="95" h="55" oX="163" oY="9" oW="-608" oH="743" cX="45" cY="0" />
+    <sprite x="73" y="11" w="81" h="53" oX="73" oY="11" oW="-608" oH="743" cX="35" cY="0" />
+    <sprite x="4" y="21" w="63" h="43" oX="4" oY="21" oW="-608" oH="743" cX="38" cY="0" />
+  </Animation>
+  <Animation name="CamelSpit" imagePath="Camel.png" width="882" height="99">
+    <sprite x="830" y="41" w="24" h="10" oX="830" oY="41" oW="-813" oH="65" cX="0" cY="0" />
+  </Animation>
+  <Animation name="CamelSpit2" imagePath="Camel.png" width="882" height="99">
+    <sprite x="864" y="42" w="12" h="9" oX="865" oY="42" oW="-813" oH="65" cX="0" cY="0" />
+  </Animation>
+</Animations>

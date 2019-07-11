@@ -31,7 +31,7 @@ public:
 	float volume;
 	void static create(HWND hWnd);
 	void setVolume(float percentage, std::string name = "");
-	void loadSound(char* fileName, std::string name);
+	void loadSound(const char* fileName, std::string name);
 	void play(std::string name, bool infiniteLoop, int times);
 	void stop(std::string name = "");
 	float getVolume();

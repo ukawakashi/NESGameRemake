@@ -19,7 +19,7 @@ public:
 	static ReadResource*			Instance();
 	/*std::vector<Rect>				LoadXML(char* fileName, string key);*/
 	~ReadResource();
-	std::vector<Rect> LoadXML(tinyxml2::XMLDocument *xmlDocument, char* animationName);
+	std::vector<Rect> LoadXML(tinyxml2::XMLDocument *xmlDocument, const char* animationName);
 };
 
 #endif __READRESOURCE_H__

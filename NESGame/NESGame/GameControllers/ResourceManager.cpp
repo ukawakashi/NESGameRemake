@@ -45,23 +45,35 @@ ResourceManager::ResourceManager()
 	_animationXMLPeddler->LoadFile("Resources/Items/Peddler.xml");
 
 	//Cac file anh duoc su dung
-	_textureAladdin = "Resources/Aladdin/Aladdin_Sprite.png";
-	_textureGuard = "Resources/Enemies/Guards.png";
-	_textureCivilian = "Resources/Enemies/Civilian.png";
-	_textureExplosions = "Resources/Enemies/Explosions.png";
-	_textureItems = "Resources/Items/Items.png";
-	_texturePeddler = "Resources/Items/Peddler.png";
-	_textureFlagPole = "Resources/Items/FlagPole.png";
-	_textureCamel = "Resources/Items/Camel.png";
-	_textureHandPot = "Resources/Enemies/Civilian.png";
-	_textureAgrabahMarket = "Resources/Maps/AgrabahMarket/AgrabahMarket.png";
+	char aladdin[] = "Resources/Aladdin/Aladdin_Sprite.png";
+	char Guard[] = "Resources/Enemies/Guards.png";
+	char Civilian[] = "Resources/Enemies/Civilian.png";
+	char Explosions[] = "Resources/Enemies/Explosions.png";
+	char Items[] = "Resources/Items/Items.png";
+	char Peddler[] = "Resources/Items/Peddler.png";
+	char FlagPole[] = "Resources/Items/FlagPole.png";
+	char Camel[] = "Resources/Items/Camel.png";
+	char HandPot[] = "Resources/Enemies/Civilian.png";
+	char AgrabahMaket[] = "Resources/Maps/AgrabahMarket/AgrabahMarket.png";
+
+	_textureAladdin = aladdin;
+	_textureGuard = Guard;
+	_textureCivilian = Civilian;
+	_textureExplosions = Explosions;
+	_textureItems = Items;
+	_texturePeddler = Peddler;
+	_textureFlagPole = FlagPole;
+	_textureCamel = Camel;
+	_textureHandPot = HandPot;
+	_textureAgrabahMarket = AgrabahMaket;
 
 	//Intro animation
 	_animationXMLIntro = new tinyxml2::XMLDocument();
 	_animationXMLIntro->LoadFile("Resources/Scenes/IntroScene.xml");
 
 	//man boss:
-	_textureMapBoss = "Resources/Maps/JafarPlace/TestMap.png";
+	char MapBoss[] = "Resources/Maps/JafarPlace/TestMap.png";
+	_textureMapBoss = MapBoss;
 
 	_animationXMLJafar = new tinyxml2::XMLDocument();
 	_animationXMLJafar->LoadFile("Resources/Enemies/Jafar.xml");
@@ -75,18 +87,30 @@ ResourceManager::ResourceManager()
 	_animationXMLJafarWeapon2 = new tinyxml2::XMLDocument();
 	_animationXMLJafarWeapon2->LoadFile("Resources/Weapons/EnemiesWeapons/Jafar-Weapon-2-Animation.xml");
 
-	_textureBossJafar = "Resources/Enemies/Boss_Sprite.png";
-	_textureExplosions = "Resources/Enemies/Enemy_Explosions_Sprite.png";
+	char BossJafar[] = "Resources/Enemies/Boss_Sprite.png";
+	char Explosions2[] = "Resources/Enemies/Enemy_Explosions_Sprite.png";
+
+	_textureBossJafar = BossJafar;
+	_textureExplosions = Explosions2;
 
 	//intro
-	_textureIntro = "Resources/New Piskel.png";
-	_textureIntroScene = "Resources/IntroScene.png";
-	_textureIntro2 = "Resources/Intro2.png";
-	_TextureMenu = "Resources/Scenes/Menu.png";
-	_TextureKnife = "Resources/Select_Menu.png";
-	_textureBug = "Resources/Bug.jpg";
-	_textureExplain = "Resources/Explain.png";
-	_textureStory = "Resources/Story.png";
+	char Intro[] = "Resources/New Piskel.png";
+	char IntroScene[] = "Resources/IntroScene.png";
+	char Intro2[] = "Resources/Intro2.png";
+	char Menu[] = "Resources/Scenes/Menu.png";
+	char Knife[] = "Resources/Select_Menu.png";
+	char Bug[] = "Resources/Bug.jpg";
+	char Explain[] = "Resources/Explain.png";
+	char Story[] = "Resources/Story.png";
+
+	_textureIntro = Intro;
+	_textureIntroScene = IntroScene;
+	_textureIntro2 = Intro2;
+	_TextureMenu = Menu;
+	_TextureKnife = Knife;
+	_textureBug = Bug;
+	_textureExplain = Explain;
+	_textureStory = Story;
 
 	//Music+Sound
 	Sound::getInstance()->loadSound("", "null");

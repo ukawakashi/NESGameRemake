@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+  <Animation name="StickmanRun" imagePath="Guards.png" width="498" height="1053">
+    <sprite x="2" y="9" w="45" h="66" oX="2" oY="9" oW="-303" oH="411" cX="0" cY="0" />
+    <sprite x="53" y="10" w="45" h="65" oX="53" oY="10" oW="-303" oH="411" cX="0" cY="0" />
+    <sprite x="109" y="11" w="45" h="64" oX="109" oY="11" oW="-303" oH="411" cX="0" cY="0" />
+    <sprite x="164" y="11" w="45" h="64" oX="164" oY="11" oW="-303" oH="411" cX="0" cY="0" />
+    <sprite x="214" y="10" w="37" h="65" oX="214" oY="10" oW="-303" oH="411" cX="0" cY="0" />
+    <sprite x="259" y="9" w="42" h="66" oX="259" oY="9" oW="-303" oH="411" cX="0" cY="0" />
+    <sprite x="308" y="9" w="49" h="66" oX="308" oY="9" oW="-303" oH="411" cX="0" cY="0" />
+    <sprite x="363" y="11" w="35" h="64" oX="363" oY="11" oW="-303" oH="411" cX="0" cY="0" />
+  </Animation>
+  <Animation name="StickmanAttack" imagePath="Guards.png" width="498" height="1053">
+    <sprite x="9" y="82" w="36" h="73" oX="9" oY="82" oW="152" oH="407" cX="0" cY="0" />
+    <sprite x="53" y="96" w="49" h="59" oX="53" oY="96" oW="152" oH="407" cX="0" cY="0" />
+    <sprite x="109" y="98" w="91" h="57" oX="109" oY="98" oW="152" oH="407" cX="73" cY="0" />
+    <sprite x="203" y="97" w="85" h="58" oX="203" oY="97" oW="152" oH="407" cX="68" cY="0" />
+    <sprite x="292" y="96" w="76" h="59" oX="292" oY="96" oW="152" oH="407" cX="59" cY="0" />
+    <sprite x="382" y="96" w="40" h="59" oX="382" oY="96" oW="152" oH="407" cX="20" cY="0" />
+  </Animation>
+  <Animation name="StickmanAttacked" imagePath="Guards.png" width="498" height="1053">
+    <sprite x="8" y="175" w="44" h="57" oX="8" oY="175" oW="233" oH="469" cX="0" cY="0" />
+    <sprite x="59" y="185" w="40" h="47" oX="59" oY="185" oW="233" oH="469" cX="0" cY="0" />
+    <sprite x="114" y="160" w="38" h="72" oX="114" oY="160" oW="233" oH="469" cX="0" cY="0" />
+    <sprite x="161" y="165" w="41" h="67" oX="161" oY="165" oW="233" oH="469" cX="0" cY="0" />
+    <sprite x="210" y="171" w="46" h="61" oX="210" oY="171" oW="233" oH="469" cX="0" cY="0" />
+    <sprite x="268" y="162" w="41" h="70" oX="268" oY="162" oW="233" oH="469" cX="0" cY="0" />
+    <sprite x="318" y="184" w="46" h="48" oX="318" oY="184" oW="233" oH="469" cX="0" cY="0" />
+    <sprite x="378" y="185" w="40" h="47" oX="378" oY="185" oW="233" oH="469" cX="0" cY="0" />
+    <sprite x="433" y="166" w="45" h="66" oX="433" oY="166" oW="233" oH="469" cX="0" cY="0" />
+  </Animation>
+  <Animation name="SwordmanRun" imagePath="Guards.png" width="498" height="1053">
+    <sprite x="2" y="255" w="47" h="51" oX="2" oY="255" oW="302" oH="427" cX="0" cY="0" />
+    <sprite x="55" y="253" w="51" h="53" oX="55" oY="253" oW="302" oH="427" cX="0" cY="0" />
+    <sprite x="111" y="252" w="56" h="54" oX="111" oY="252" oW="302" oH="427" cX="0" cY="0" />
+    <sprite x="173" y="253" w="51" h="53" oX="173" oY="253" oW="302" oH="427" cX="0" cY="0" />
+    <sprite x="230" y="255" w="49" h="51" oX="230" oY="255" oW="302" oH="427" cX="0" cY="0" />
+    <sprite x="284" y="254" w="41" h="52" oX="284" oY="254" oW="302" oH="427" cX="0" cY="0" />
+    <sprite x="334" y="251" w="43" h="55" oX="334" oY="251" oW="302" oH="427" cX="0" cY="0" />
+    <sprite x="382" y="253" w="46" h="53" oX="382" oY="253" oW="302" oH="427" cX="0" cY="0" />
+  </Animation>
+  <Animation name="SwordmanProvocative" imagePath="Guards.png" width="498" height="1053">
+    <sprite x="5" y="317" w="44" h="52" oX="5" oY="317" oW="360" oH="318" cX="0" cY="0" />
+    <sprite x="56" y="316" w="36" h="53" oX="56" oY="316" oW="360" oH="318" cX="15" cY="0" />
+    <sprite x="98" y="317" w="53" h="52" oX="98" oY="317" oW="360" oH="318" cX="32" cY="0" />
+    <sprite x="157" y="317" w="57" h="52" oX="157" oY="317" oW="360" oH="318" cX="36" cY="0" />
+    <sprite x="221" y="317" w="48" h="52" oX="221" oY="317" oW="360" oH="318" cX="27" cY="0" />
+    <sprite x="278" y="317" w="43" h="52" oX="278" oY="317" oW="360" oH="318" cX="22" cY="0" />
+  </Animation>
+  <Animation name="SwordmanAttack" imagePath="Guards.png" width="498" height="1053">
+    <sprite x="6" y="378" w="54" h="51" oX="6" oY="378" oW="440" oH="423" cX="0" cY="0" />
+    <sprite x="65" y="386" w="67" h="43" oX="65" oY="386" oW="440" oH="423" cX="40" cY="0" />
+    <sprite x="140" y="388" w="70" h="41" oX="140" oY="388" oW="440" oH="423" cX="42" cY="0" />
+    <sprite x="216" y="387" w="74" h="42" oX="216" oY="387" oW="440" oH="423" cX="45" cY="0" />
+    <sprite x="297" y="385" w="88" h="44" oX="297" oY="385" oW="440" oH="423" cX="57" cY="0" />
+    <sprite x="395" y="384" w="95" h="45" oX="395" oY="384" oW="440" oH="423" cX="64" cY="0" />
+    <sprite x="6" y="447" w="43" h="59" oX="6" oY="447" oW="498" oH="313" cX="5" cY="0" />
+    <sprite x="61" y="434" w="43" h="72" oX="61" oY="434" oW="498" oH="313" cX="2" cY="0" />
+    <sprite x="116" y="441" w="51" h="65" oX="116" oY="441" oW="498" oH="313" cX="5" cY="0" />
+    <sprite x="178" y="451" w="114" h="55" oX="178" oY="451" oW="498" oH="313" cX="69" cY="0" />
+    <sprite x="300" y="434" w="90" h="72" oX="300" oY="434" oW="498" oH="313" cX="49" cY="0" />
+  </Animation>
+  <Animation name="SwordmanAttacked" imagePath="Guards.png" width="498" height="1053">
+    <sprite x="6" y="538" w="53" h="47" oX="6" oY="538" oW="582" oH="422" cX="0" cY="0" />
+    <sprite x="71" y="515" w="63" h="70" oX="71" oY="515" oW="582" oH="422" cX="0" cY="0" />
+    <sprite x="138" y="529" w="65" h="56" oX="138" oY="529" oW="582" oH="422" cX="0" cY="0" />
+    <sprite x="210" y="520" w="71" h="65" oX="210" oY="520" oW="582" oH="422" cX="0" cY="0" />
+    <sprite x="290" y="522" w="74" h="63" oX="290" oY="522" oW="582" oH="422" cX="0" cY="0" />
+    <sprite x="382" y="530" w="66" h="55" oX="382" oY="530" oW="582" oH="422" cX="0" cY="0" />
+  </Animation>
+  <Animation name="SwordmanWalkHotcoal" imagePath="Guards.png" width="498" height="1053">
+    <sprite x="10" y="598" w="41" h="53" oX="10" oY="598" oW="635" oH="41" cX="0" cY="0" />
+	<sprite x="59" y="592" w="43" h="59" oX="59" oY="592" oW="597" oH="376" cX="0" cY="0" />
+    <sprite x="106" y="593" w="41" h="58" oX="106" oY="593" oW="597" oH="376" cX="0" cY="0" />
+    <sprite x="154" y="594" w="38" h="57" oX="154" oY="594" oW="597" oH="376" cX="0" cY="0" />
+    <sprite x="198" y="599" w="41" h="52" oX="198" oY="599" oW="597" oH="376" cX="0" cY="0" />
+    <sprite x="253" y="593" w="42" h="58" oX="253" oY="593" oW="597" oH="376" cX="0" cY="0" />
+    <sprite x="299" y="594" w="41" h="57" oX="299" oY="594" oW="597" oH="376" cX="0" cY="0" />
+    <sprite x="345" y="594" w="42" h="57" oX="345" oY="594" oW="597" oH="376" cX="0" cY="0" />
+    <sprite x="393" y="601" w="44" h="50" oX="393" oY="601" oW="597" oH="376" cX="0" cY="0" />
+  </Animation>
+  <Animation name="SwordmanStartWalkHotcoal" imagePath="Guards.png" width="498" height="1053">
+    <sprite x="10" y="598" w="41" h="53" oX="10" oY="598" oW="635" oH="41" cX="0" cY="0" />
+  </Animation>
+  <Animation name="FatmanEat" imagePath="Guards.png" width="498" height="1053">
+    <sprite x="2" y="727" w="37" h="43" oX="2" oY="727" oW="765" oH="341" cX="0" cY="0" />
+    <sprite x="45" y="721" w="40" h="49" oX="45" oY="721" oW="765" oH="341" cX="0" cY="0" />
+    <sprite x="94" y="725" w="38" h="45" oX="94" oY="725" oW="765" oH="341" cX="0" cY="0" />
+    <sprite x="143" y="727" w="37" h="43" oX="143" oY="727" oW="765" oH="341" cX="0" cY="0" />
+    <sprite x="187" y="725" w="54" h="45" oX="187" oY="725" oW="765" oH="341" cX="0" cY="0" />
+    <sprite x="247" y="719" w="52" h="51" oX="247" oY="719" oW="765" oH="341" cX="0" cY="0" />
+    <sprite x="308" y="722" w="40" h="48" oX="308" oY="722" oW="765" oH="341" cX="0" cY="0" />
+  </Animation>
+  <Animation name="FatmanRun" imagePath="Guards.png" width="498" height="1053">
+    <sprite x="7" y="784" w="36" h="51" oX="7" oY="784" oW="828" oH="354" cX="0" cY="0" />
+    <sprite x="52" y="786" w="34" h="49" oX="52" oY="786" oW="828" oH="354" cX="0" cY="0" />
+    <sprite x="93" y="789" w="36" h="46" oX="93" oY="789" oW="828" oH="354" cX="0" cY="0" />
+    <sprite x="133" y="781" w="38" h="54" oX="133" oY="781" oW="828" oH="354" cX="0" cY="0" />
+    <sprite x="178" y="776" w="43" h="59" oX="178" oY="776" oW="828" oH="354" cX="0" cY="0" />
+    <sprite x="233" y="781" w="38" h="54" oX="233" oY="781" oW="828" oH="354" cX="0" cY="0" />
+    <sprite x="281" y="788" w="36" h="47" oX="281" oY="788" oW="828" oH="354" cX="0" cY="0" />
+    <sprite x="323" y="785" w="33" h="50" oX="323" oY="785" oW="828" oH="354" cX="0" cY="0" />
+  </Animation>
+  <Animation name="FatmanAttack" imagePath="Guards.png" width="498" height="1053">
+    <sprite x="2" y="842" w="55" h="57" oX="2" oY="842" oW="917" oH="300" cX="0" cY="0" />
+    <sprite x="68" y="844" w="36" h="55" oX="68" oY="844" oW="917" oH="300" cX="26" cY="0" />
+    <sprite x="115" y="850" w="60" h="49" oX="115" oY="850" oW="917" oH="300" cX="50" cY="0" />
+    <sprite x="182" y="856" w="45" h="43" oX="182" oY="856" oW="917" oH="300" cX="35" cY="0" />
+    <sprite x="236" y="848" w="32" h="51" oX="236" oY="848" oW="917" oH="300" cX="24" cY="0" />
+	<sprite x="9" y="663" w="43" h="49" oX="9" oY="663" oW="700" oH="43" cX="28" cY="0" />
+	<sprite x="9" y="663" w="43" h="49" oX="9" oY="663" oW="700" oH="43" cX="28" cY="0" />
+  </Animation>
+  <Animation name="FatmanLookback" imagePath="Guards.png" width="498" height="1053">
+    <sprite x="9" y="663" w="43" h="49" oX="9" oY="663" oW="700" oH="43" cX="0" cY="0" />
+  </Animation>
+  <Animation name="FatmanKnife" imagePath="Guards.png" width="498" height="1053">
+    <sprite x="73" y="678" w="11" h="24" oX="73" oY="678" oW="629" oH="198" cX="0" cY="0" />
+    <sprite x="97" y="680" w="26" h="16" oX="97" oY="680" oW="629" oH="198" cX="0" cY="0" />
+    <sprite x="130" y="675" w="13" h="25" oX="130" oY="675" oW="629" oH="198" cX="0" cY="0" />
+    <sprite x="152" y="682" w="27" h="19" oX="152" oY="682" oW="629" oH="198" cX="0" cY="0" />
+    <sprite x="190" y="677" w="26" h="26" oX="190" oY="677" oW="629" oH="198" cX="0" cY="0" />
+    <sprite x="225" y="675" w="24" h="22" oX="225" oY="675" oW="629" oH="198" cX="0" cY="0" />
+    <sprite x="261" y="678" w="12" h="21" oX="261" oY="678" oW="629" oH="198" cX="0" cY="0" />
+  </Animation>
+  <Animation name="FatmanAttacked" imagePath="Guards.png" width="498" height="1053">
+    <sprite x="4" y="919" w="54" h="51" oX="73" oY="678" oW="629" oH="198" cX="0" cY="0" />
+    <sprite x="63" y="920" w="55" h="50" oX="97" oY="680" oW="629" oH="198" cX="0" cY="0" />
+    <sprite x="124" y="921" w="55" h="49" oX="130" oY="675" oW="629" oH="198" cX="0" cY="0" />
+    <sprite x="185" y="921" w="55" h="49" oX="152" oY="682" oW="629" oH="198" cX="0" cY="0" />
+    <sprite x="246" y="923" w="55" h="47" oX="190" oY="677" oW="629" oH="198" cX="0" cY="0" />
+    <sprite x="322" y="906" w="65" h="64" oX="225" oY="675" oW="629" oH="198" cX="0" cY="0" />
+    <sprite x="399" y="910" w="68" h="60" oX="261" oY="678" oW="629" oH="198" cX="0" cY="0" />
+	<sprite x="399" y="910" w="68" h="60" oX="261" oY="678" oW="629" oH="198" cX="0" cY="0" />
+	<sprite x="399" y="910" w="68" h="60" oX="261" oY="678" oW="629" oH="198" cX="0" cY="0" />
+	<sprite x="399" y="910" w="68" h="60" oX="261" oY="678" oW="629" oH="198" cX="0" cY="0" />
+  </Animation>
+</Animations>

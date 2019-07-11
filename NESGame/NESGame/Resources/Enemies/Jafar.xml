@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+<Animation name="JafarStand" imagePath="Jafar.png" width="863" height="348">
+    <sprite x="8" y="9" w="64" h="70" oX="8" oY="9" oW="73" oH="486" />
+	<sprite x="8" y="9" w="64" h="70" oX="8" oY="9" oW="73" oH="486" />
+	<sprite x="8" y="9" w="64" h="70" oX="8" oY="9" oW="73" oH="486" />
+    <sprite x="80" y="10" w="57" h="69" oX="80" oY="10" oW="73" oH="486" />
+    <sprite x="144" y="11" w="55" h="68" oX="144" oY="11" oW="73" oH="486" />
+	<sprite x="144" y="11" w="55" h="68" oX="144" oY="11" oW="73" oH="486" />
+	<sprite x="144" y="11" w="55" h="68" oX="144" oY="11" oW="73" oH="486" />
+	<sprite x="80" y="10" w="57" h="69" oX="80" oY="10" oW="73" oH="486" />
+  </Animation>
+  <Animation name="JafarStartPulling" imagePath="Jafar.png" width="863" height="348">
+    <sprite x="80" y="10" w="57" h="69" oX="80" oY="10" oW="73" oH="486" cX="0" cY="0" />
+    <sprite x="144" y="11" w="55" h="68" oX="144" oY="11" oW="73" oH="486" cX="0" cY="0" />
+    <sprite x="208" y="12" w="51" h="67" oX="208" oY="12" oW="73" oH="486" cX="28" cY="0" />
+    <sprite x="272" y="11" w="64" h="68" oX="272" oY="11" oW="73" oH="486" cX="27" cY="0" />
+    <sprite x="344" y="11" w="82" h="68" oX="344" oY="11" oW="73" oH="486" cX="29" cY="0" />
+    <sprite x="440" y="11" w="85" h="68" oX="440" oY="11" oW="73" oH="486" cX="27" cY="0" />
+	<sprite x="344" y="11" w="82" h="68" oX="344" oY="11" oW="73" oH="486" cX="29" cY="0" />
+    <sprite x="440" y="11" w="85" h="68" oX="440" oY="11" oW="73" oH="486" cX="27" cY="0" />
+	<sprite x="344" y="11" w="82" h="68" oX="344" oY="11" oW="73" oH="486" cX="29" cY="0" />
+    <sprite x="440" y="11" w="85" h="68" oX="440" oY="11" oW="73" oH="486" cX="27" cY="0" />
+	<sprite x="536" y="11" w="68" h="68" oX="536" oY="11" oW="71" oH="590" cX="29" cY="0" />
+	<sprite x="536" y="11" w="68" h="68" oX="536" oY="11" oW="71" oH="590" cX="29" cY="0" />
+	<sprite x="536" y="11" w="68" h="68" oX="536" oY="11" oW="71" oH="590" cX="29" cY="0" />
+	<sprite x="536" y="11" w="68" h="68" oX="536" oY="11" oW="71" oH="590" cX="29" cY="0" />
+	<sprite x="536" y="11" w="68" h="68" oX="536" oY="11" oW="71" oH="590" cX="29" cY="0" />
+	<sprite x="536" y="11" w="68" h="68" oX="536" oY="11" oW="71" oH="590" cX="29" cY="0" />
+	<sprite x="536" y="11" w="68" h="68" oX="536" oY="11" oW="71" oH="590" cX="29" cY="0" />
+  </Animation>
+  <Animation name="JafarStopPulling" imagePath="Jafar.png" width="863" height="348">
+    <sprite x="536" y="11" w="68" h="68" oX="536" oY="11" oW="71" oH="590" />
+    <sprite x="8" y="9" w="64" h="70" oX="8" oY="9" oW="71" oH="590" />
+    <sprite x="144" y="11" w="55" h="68" oX="144" oY="11" oW="71" oH="590" />
+  </Animation>
+  <Animation name="JafarNormalState" imagePath="Jafar.png" width="863" height="348">
+    <sprite x="144" y="11" w="55" h="68" oX="144" oY="11" oW="-72" oH="55" />
+  </Animation>
+  <Animation name="JafarTurnSnake" imagePath="Jafar.png" width="863" height="348">
+    <sprite x="8" y="118" w="70" h="57" oX="8" oY="118" oW="174" oH="383" />
+    <sprite x="88" y="112" w="64" h="63" oX="88" oY="112" oW="174" oH="383" />
+    <sprite x="160" y="104" w="67" h="71" oX="160" oY="104" oW="174" oH="383" />
+    <sprite x="320" y="92" w="68" h="83" oX="320" oY="92" oW="174" oH="383" />
+  </Animation>
+  <Animation name="JafarSnakeStand" imagePath="Jafar.png" width="863" height="348">
+    <sprite x="240" y="104" w="71" h="71" oX="240" oY="104" oW="174" oH="850" />
+    <sprite x="320" y="92" w="68" h="83" oX="320" oY="92" oW="174" oH="850" />
+    <sprite x="400" y="93" w="68" h="82" oX="400" oY="93" oW="174" oH="850" />
+    <sprite x="480" y="94" w="69" h="81" oX="480" oY="94" oW="174" oH="850" />
+    <sprite x="560" y="94" w="69" h="81" oX="560" oY="94" oW="174" oH="850" />
+    <sprite x="644" y="93" w="63" h="83" oX="644" oY="93" oW="174" oH="850" />
+    </Animation>
+  <Animation name="JafarSnakeAttack" imagePath="Jafar.png" width="863" height="348">
+    <sprite x="320" y="92" w="68" h="83" oX="320" oY="92" oW="174" oH="850" />
+    <sprite x="400" y="93" w="68" h="82" oX="400" oY="93" oW="174" oH="850" />
+    <sprite x="480" y="94" w="69" h="81" oX="480" oY="94" oW="174" oH="850" />
+    <sprite x="560" y="94" w="69" h="81" oX="560" oY="94" oW="174" oH="850" />
+    <sprite x="644" y="93" w="63" h="83" oX="644" oY="93" oW="174" oH="850" />
+    <sprite x="716" y="95" w="64" h="81" oX="716" oY="95" oW="174" oH="850" />
+    <sprite x="788" y="116" w="71" h="60" oX="788" oY="116" oW="174" oH="850" />
+	<sprite x="8" y="118" w="70" h="57" oX="8" oY="118" oW="174" oH="850" />
+    <sprite x="88" y="112" w="64" h="63" oX="88" oY="112" oW="174" oH="850" />
+    <sprite x="160" y="104" w="67" h="71" oX="160" oY="104" oW="174" oH="850" />
+    <sprite x="240" y="104" w="71" h="71" oX="240" oY="104" oW="174" oH="850" />
+  </Animation>
+  <Animation name="AroundFire" imagePath="Jafar.png" width="863" height="348">
+    <sprite x="14" y="193" w="24" h="46" oX="14" oY="193" oW="216" oH="155" />
+    <sprite x="46" y="187" w="21" h="52" oX="14" oY="193" oW="216" oH="155" />
+    <sprite x="78" y="193" w="24" h="46" oX="78" oY="193" oW="216" oH="155" />
+    <sprite x="110" y="190" w="27" h="49" oX="110" oY="190" oW="216" oH="155" />
+    <sprite x="150" y="194" w="35" h="45" oX="150" oY="194" oW="216" oH="155" />
+  </Animation>
+  <Animation name="Pull" imagePath="Jafar.png" width="863" height="348">
+    <sprite x="198" y="226" w="27" h="13" oX="198" oY="226" oW="48" oH="100" />
+    <sprite x="238" y="224" w="23" h="15" oX="238" oY="224" oW="48" oH="100" />
+    <sprite x="270" y="225" w="25" h="14" oX="270" oY="225" oW="48" oH="100" />
+  </Animation>
+  <Animation name="PullAroundAladdin" imagePath="Jafar.png" width="863" height="348">
+    <sprite x="310" y="227" w="13" h="12" oX="310" oY="227" oW="-134" oH="92" />
+    <sprite x="334" y="226" w="34" h="13" oX="334" oY="226" oW="-134" oH="92" />
+    <sprite x="382" y="219" w="15" h="20" oX="382" oY="219" oW="-134" oH="92" />
+  </Animation>
+  <Animation name="FireAttack" imagePath="Jafar.png" width="863" height="348">
+    <sprite x="8" y="286" w="74" h="49" oX="8" oY="286" oW="371" oH="716" />
+    <sprite x="96" y="288" w="79" h="47" oX="96" oY="288" oW="371" oH="716" />
+    <sprite x="184" y="294" w="98" h="41" oX="184" oY="294" oW="371" oH="716" />
+    <sprite x="296" y="295" w="89" h="40" oX="296" oY="295" oW="371" oH="716" />
+    <sprite x="400" y="307" w="77" h="28" oX="400" oY="307" oW="371" oH="716" />
+    <sprite x="488" y="305" w="73" h="30" oX="488" oY="305" oW="371" oH="716" />
+    <sprite x="572" y="293" w="60" h="42" oX="572" oY="293" oW="371" oH="716" />
+    <sprite x="645" y="285" w="64" h="50" oX="645" oY="285" oW="371" oH="716" />
+  </Animation>
+</Animations>

@@ -8,13 +8,15 @@ public:
     PlayerRunningState(PlayerData *playerData);
     ~PlayerRunningState();
 
-    void HandleKeyboard(std::map<int, bool> keys);
+    void Update(float dt);
 
-    void OnCollision(Entity *impactor, Entity::SideCollisions side, Entity::CollisionReturn data);
+    void HandleKeyboard(std::map<int, bool> keys);
 
     virtual StateName GetState();
 
 protected:
-    float acceleratorX;
+    //do bien tien van toc sau moi frame tinh bang pixel / s
+	void OnCollision(Entity *impactor, Entity::SideCollisions side, Entity::CollisionReturn data);
+	bool allowMoveRight, allowMoveLeft;
 };
 

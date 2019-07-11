@@ -80,7 +80,7 @@ float Sound::getVolume()
 	return volume;
 }
 
-void Sound::loadSound(char* fileName, std::string name)
+void Sound::loadSound( const char* fileName, std::string name)
 {
 	if (soundBufferMap.find(name) != soundBufferMap.end())
 		return;
